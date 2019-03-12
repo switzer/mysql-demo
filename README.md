@@ -1,4 +1,32 @@
 # RTB4FREE MySQL Demo Database
-The following Docker image is a standard MySQL database with RTB4FREE data installed.
 
-This image is used for [Quickstart](https://rtb4free.com/quickstart) - to get a person up and running with full DSP functionality in 5 minutes or less.
+This Docker image is a standard MySQL database used in the [RTB4FREE](https://github.com/RTB4FREE) project.  Included in the database is demo data for [Quickstart](https://rtb4free.com/quickstart) - a process to get RTB4FREE up and running with full DSP functionality in 5 minutes or less.
+
+### Prerequisities
+
+In order to run this container you'll need docker installed.
+
+* [Windows](https://docs.docker.com/windows/started)
+* [OS X](https://docs.docker.com/mac/started/)
+* [Linux](https://docs.docker.com/linux/started/)
+
+## Find Us
+
+* [GitHub](https://github.com/RTB4FREE)
+* [rtb4free.com](https://rtb4free.com)
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the
+[tags on this repository](https://github.com/rtb4free/mysql-demo/tags).
+
+## Authors
+
+* **Scott Switzer** - *Initial work* - [switzer](https://github.com/switzer)
+
+See also the list of [contributors](https://github.com/rtb4free/rtb4free/contributors) who
+participated in this project.
